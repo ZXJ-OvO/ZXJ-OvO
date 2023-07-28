@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/ZXJ-OvO/ZXJ-OvO/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/ZXJ-OvO/ZXJ-OvO/master/assets/github-contribution-grid-snake.svg)
